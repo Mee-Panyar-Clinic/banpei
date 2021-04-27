@@ -8,9 +8,12 @@ Anomaly detection is a technique used to identify unusual patterns that do not c
 Python ^3.6 (2.x is not supported)
 
 ## Installation
+A custom version has been built for Mee Panyar's fork. This version can be accessed by:
 ```bash
-$ pip install banpei
+$ pip install banpei-0.1.3.tar.gz
 ```
+The pip command must be run from the /dist directory
+
 After installation, you can import banpei in Python.
 ```
 $ python
