@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "banpei"
-version = "0.1.2"
+version = "0.1.3"
 description = "Anomaly detection library with Python"
 authors = ["Hirofumi Tsuruta"]
 license = "MIT"
